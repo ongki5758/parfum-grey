@@ -8,16 +8,16 @@
 	>
 
 <channel>
-	<title>(1) Parfum Pria GREY Original</title>
+	<title>(1) Parfum Pria GREY ORIGINAL</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>BISA COD (Bayar Setelah Barang Sampai)</description>
-	<lastBuildDate>Thu, 17 Feb 2022 18:06:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jun 2022 19:15:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 </channel>
 </rss>
